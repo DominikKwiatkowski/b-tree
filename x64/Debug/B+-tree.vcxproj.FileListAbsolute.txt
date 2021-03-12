@@ -1,0 +1,2 @@
+D:\domik\Documents\SBD\B+-tree\x64\Debug\B+-tree.exe
+D:\domik\Documents\SBD\B+-tree\x64\Debug\B+-tree.pdb
